@@ -117,7 +117,7 @@ Options:
 
 * **Protect Your Keys**: Always store generated private keys in a secure, encrypted location.
 * **Offline Usage**: For maximum safety, run `cargypto_cli` on an air-gapped machine.
-* **Audit**: Review the code before use—your funds depend on it.
+* **Audit**: Review the code before use, your funds depend on it.
 
 ---
 
@@ -127,8 +127,8 @@ Contributions, issues, pull requests, and feature requests are welcome!
 
 ```bash
 # Fork the repo
-git clone https://github.com/yourusername/Cargypto_CLI.git
-cd Cargypto_CLI
+git clone https://github.com/trvtsn/cargypto_cli.git
+cd cargypto_cli
 
 # Create a feature branch
 git checkout -b feature/new-network-support
